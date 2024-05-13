@@ -2,7 +2,8 @@
 
 #### 介绍
 自己做的gpt模型国内直接访问的代理,可以试着玩玩
-![Uploading image.png…]()
+![image](https://github.com/jinjianming/chatgpt-/assets/57084209/81ceaa05-89af-437b-9bc5-41d6faeafa97)
+
 
 #### 入门文档
 https://web.chatapi.asia/archives/1715242591418
