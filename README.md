@@ -2,7 +2,7 @@
 
 #### 介绍
 自己做的gpt模型国内直接访问的代理,可以试着玩玩
-![输入图片说明](image.png)
+![Uploading image.png…]()
 
 #### 入门文档
 https://web.chatapi.asia/archives/1715242591418
